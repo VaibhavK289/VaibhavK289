@@ -427,18 +427,7 @@ Real-time emotion detection & analysis
 ### 🏠 PropFinder
 **Real Estate Platform**
 
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch"/>
-<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox"/>
 
-Property search with virtual tours
-
-</td>
-</tr>
-</table>
-
-<!-- Cyber Divider -->
-<p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
