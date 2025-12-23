@@ -1,8 +1,13 @@
-<div align="center">
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=VAIBHAV%20KUMAR%20KANDHWAY&fontSize=40&fontColor=00f2ff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20AI%20Engineer%20%7C%20Cloud%20Specialist&descSize=16&descAlignY=55" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=VAIBHAV%20KUMAR%20KANDHWAY&fontSize=40&fontColor=00f2ff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20AI%20Engineer%20%7C%20Cloud%20Specialist&descSize=16&descAlignY=55" width="100%"/>
+</p>
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=ARCHITECTING+THE+DIGITAL+FUTURE;FULL-STACK+%7C+AI+%7C+CLOUD+%7C+DEVOPS;WHERE+CODE+MEETS+CREATIVITY" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=ARCHITECTING+THE+DIGITAL+FUTURE;FULL-STACK+%7C+AI+%7C+CLOUD+%7C+DEVOPS;WHERE+CODE+MEETS+CREATIVITY" alt="Typing SVG" />
+  </a>
+</p>
 <!-- STATUS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVELY_CODING-00f2ff?style=for-the-badge&logo=github&logoColor=00f2ff&labelColor=0d1117" alt="Status"/>
@@ -22,7 +27,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=VaibhavK289&label=PROFILE+VIEWS&color=00f2ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 </p>
-</div>
+<br/>
 
 🎯 ABOUT_ME.execute()
 pythonclass VaibhavKandhway:
@@ -51,6 +56,7 @@ pythonclass VaibhavKandhway:
 <div align="center">
 💡 "I don't just write code—I architect digital experiences that push boundaries."
 </div>
+<br/>
 
 ⚡ TECH_STACK.arsenal()
 <div align="center">
@@ -102,6 +108,7 @@ pythonclass VaibhavKandhway:
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=8b5cf6&labelColor=0d1117" alt="Jupyter"/>
 </p>
 </div>
+<br/>
 
 🚀 FEATURED_PROJECTS.showcase()
 <div align="center">
@@ -167,6 +174,7 @@ Let's build something amazing together!
 </tr>
 </table>
 </div>
+<br/>
 
 📊 SYSTEM_METRICS.display()
 <div align="center">
@@ -177,6 +185,7 @@ Let's build something amazing together!
 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=VaibhavK289&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff" alt="Trophies"/>
 </div>
+<br/>
 
 💻 CODING_ACTIVITY.weekly()
 <div align="center">
@@ -188,6 +197,7 @@ CSS           1 hr 20 mins   █░░░░░░░░░░░░░░░░
 Other         0 hrs 40 mins  ░░░░░░░░░░░░░░░░░░░░░    2.4%
 <!--END_SECTION:waka-->
 </div>
+<br/>
 
 🎯 ACHIEVEMENTS.log()
 <div align="center">
@@ -208,6 +218,7 @@ Other         0 hrs 40 mins  ░░░░░░░░░░░░░░░░░
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 </div>
+<br/>
 
 🌟 PROFESSIONAL_PHILOSOPHY.toString()
 <div align="center">
@@ -229,6 +240,7 @@ diff+ Unique blend of technical excellence and design artistry
 + Commitment to writing code that's both beautiful and functional
 + Drive to push boundaries and challenge the status quo
 </div>
+<br/>
 
 📫 ESTABLISH_CONNECTION.now()
 <div align="center">
@@ -253,12 +265,19 @@ ascii╔════════════════════════
 ║  PREFERRED TECH: Full-Stack, AI/ML, Cloud                      ║
 ╚════════════════════════════════════════════════════════════════╝
 </div>
+<br/>
 
-<div align="center">
+<p align="center">
 🚀 "The best way to predict the future is to invent it." - Alan Kay
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
-⭐ If you find my work interesting, consider starring my repositories!
-Show Image
+</p>
+<p align="center">
+  <strong>⭐ If you find my work interesting, consider starring my repositories!</strong>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VaibhavK289/VaibhavK289/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
-<sup>Last Updated: December 2024 | Built with ❤️ and ☕ | Powered by Code & Creativity</sup>
-</div>
+<p align="center">
+  <sub>Last Updated: December 2024 | Built with ❤️ and ☕ | Powered by Code & Creativity</sub>
+</p>
