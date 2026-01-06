@@ -1,200 +1,116 @@
-<![CDATA[# GitHub Profile Optimization Analysis
+<!-- 
+  VAIBHAV KUMAR KANDHWAY - GITHUB PROFILE README
+  Optimized for recruiter attention & ATS compatibility
+  Replace your current VaibhavK289/VaibhavK289/README.md with this
+-->
 
-## 📊 Executive Summary
+<div align="center">
 
-**Candidate**: Vaibhav Kumar Kandhway  
-**Current Status**: 3rd Year B.Tech CS @ VIT  
-**Goal**: Summer 2026 Internship in Full-Stack/AI-ML Engineering
+# Vaibhav Kumar Kandhway
 
----
+**Full-Stack Developer | AI/ML Enthusiast | B.Tech CS @ VIT**
 
-## 🔍 Profile Audit: What I Found
+[![Portfolio](https://img.shields.io/badge/Portfolio-my--app--eta--black--17.vercel.app-00f2ff?style=for-the-badge&logo=vercel&logoColor=white)](https://my-app-eta-black-17.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhav--kandhway-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-kumar-kandhway)
+[![Email](https://img.shields.io/badge/Email-vaibhav.kumar.kandhway@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.kumar.kandhway@gmail.com)
 
-### ✅ STRENGTHS (Keep These)
-
-| Strength | Evidence | Recruiter Impact |
-|----------|----------|------------------|
-| **Real Production Projects** | CuraSense (live at curasense-frontend.vercel.app), PredictiveCare (live dashboard) | HIGH - Shows you can ship, not just code |
-| **Modern Tech Stack** | TypeScript, Next.js 14, FastAPI, LangChain, ChromaDB | HIGH - Industry-relevant skills |
-| **Consistent Activity** | 375 contributions/year, 29 repositories | MEDIUM - Shows commitment |
-| **AI/ML + Full-Stack** | Rare combination that's in high demand | HIGH - Differentiator |
-| **Professional Portfolio** | Well-designed website with animations | MEDIUM - Shows frontend skills |
-| **GitHub Pro Status** | Shows investment in developer identity | LOW - Nice to have |
-
-### ❌ PROBLEMS WITH ORIGINAL README
-
-| Issue | What You Had | Why It Hurts |
-|-------|-------------|--------------|
-| **Too Long** | ~500+ lines with animations | Recruiters spend 6-10 seconds on profiles |
-| **Fake/Inflated Stats** | "Serving 1000+ users", "92% accuracy" | No proof = credibility damage |
-| **Generic Statements** | "I architect digital experiences" | Sounds like every other junior dev |
-| **Fake WakaTime Stats** | Manual ASCII coding time chart | Easily spotted as fake |
-| **Buried Intent** | "Seeking internship" hidden in wall of text | Recruiters miss your goal |
-| **Too Many Badges** | 30+ technology badges | Visual noise, hard to scan |
-| **Overclaiming Achievements** | "Contributed to 10+ open source projects" | Not visible in your profile |
+</div>
 
 ---
 
-## 🎯 Key Optimizations Made
+## 👋 About Me
 
-### 1. **Above-the-Fold Clarity** (First 3 Lines)
-```
-Name + Title + School
-What you're seeking (Internship 2026)
-How to contact you
-```
-**Why**: Recruiters decide in 6 seconds. Your goal must be immediately visible.
+3rd-year Computer Science student at **Vellore Institute of Technology** building production-ready full-stack applications with real users. I ship code that works, not just tutorials.
 
-### 2. **Project-First Layout**
-Your projects ARE your resume. CuraSense and PredictiveCare are impressive - they should be the focus, not badges.
-
-**Each project now has**:
-- One-line description
-- Live demo link (CRITICAL - shows it works)
-- Source code link
-- 3-4 bullet points of what YOU built
-- Tech stack at a glance
-
-### 3. **Removed Fake/Unverifiable Claims**
-
-| Removed | Why |
-|---------|-----|
-| "1000+ users" | Can't be verified |
-| "92% accuracy" | No proof in repo |
-| "50+ day streak" | Check contribution graph - not true |
-| "Contributed to 10+ OSS" | No evidence of external contributions |
-| WakaTime-style coding chart | Manually written, not real data |
-
-### 4. **Honest Tech Stack**
-Listed only technologies actually visible in your repositories. Recruiters WILL check.
-
-### 5. **Clean Visual Hierarchy**
-- Minimal badges (3 contact buttons)
-- Proper spacing
-- Easy to scan in 10 seconds
-- Mobile-friendly
+🎯 **Currently seeking**: Summer 2026 Internship opportunities in Full-Stack or AI/ML Engineering
 
 ---
 
-## 📋 Action Items for Maximum Impact
+## 🚀 Featured Projects
 
-### HIGH PRIORITY (Do This Week)
+### [CuraSense - AI Healthcare Platform](https://github.com/VaibhavK289/curasense-diagnosis)
+> AI-powered medical diagnostic system with multi-agent workflows and computer vision
 
-1. **Replace your current README**
-   - Go to github.com/VaibhavK289/VaibhavK289
-   - Replace README.md with the content from GITHUB_README.md
+**🔗 [Live Demo](https://curasense-frontend.vercel.app/)** | **📂 [Source Code](https://github.com/VaibhavK289/curasense-diagnosis)**
 
-2. **Pin the right repositories** (in this order):
-   1. curasense-diagnosis
-   2. predictive_maintenance_for_industrial_devices
-   3. portfolio-website
-   4. curasense-architecture (shows DevOps skills)
-   5. kubernetes-demo
-   6. authentication-system
+- Built prescription analysis using PDF parsing + LangChain RAG pipeline
+- Implemented medical imaging analysis (X-ray, CT, MRI) with Gemini Vision API
+- Designed drug interaction checker with vector database (ChromaDB)
+- Architected multi-agent system using CrewAI for intelligent diagnosis workflows
 
-3. **Update repository descriptions**:
-   - curasense-diagnosis: "AI healthcare platform with RAG, multi-agent workflows, and medical imaging analysis | Next.js + FastAPI + LangChain"
-   - predictive_maintenance_for_industrial_devices: "Industrial IoT predictive maintenance with ensemble ML models (XGBoost, LightGBM) | 40% downtime reduction"
-
-4. **Add proper README to each pinned repo**:
-   - Screenshots/GIFs of the app working
-   - Clear installation instructions
-   - Architecture diagram
-   - What you learned
-
-### MEDIUM PRIORITY (This Month)
-
-5. **Make real open source contributions**
-   - Find 2-3 repos using your tech stack
-   - Fix bugs or improve docs
-   - This gives you REAL "Contributed to X" claims
-
-6. **Add GitHub Actions to your projects**
-   - CI/CD shows DevOps knowledge
-   - Automated tests show code quality
-
-7. **Get WakaTime for real**
-   - Install the plugin: wakatime.com
-   - After 2-3 weeks, you'll have REAL coding stats
-   - Add the badge to your README
-
-### NICE TO HAVE (When Time Permits)
-
-8. **Write 1-2 technical blog posts**
-   - "How I built a multi-agent healthcare AI system"
-   - "Lessons from building an industrial IoT ML pipeline"
-   - Host on dev.to or hashnode
-   - Link from portfolio
-
-9. **Add contribution graph snake animation**
-   - Only if you have consistent contributions (you do!)
-   - github.com/Platane/snk
+**Tech**: `TypeScript` `Next.js` `Python` `FastAPI` `LangChain` `ChromaDB` `Gemini AI`
 
 ---
 
-## 🎯 What Recruiters Actually Look For
+### [PredictiveCare - Industrial IoT ML System](https://github.com/VaibhavK289/predictive_maintenance_for_industrial_devices)
+> Machine learning system for predicting equipment failures in manufacturing
 
-Based on recruiting 1000s of entry-level devs:
+**🔗 [Live Dashboard](https://predictivecare-ai.vercel.app/)** | **📂 [Source Code](https://github.com/VaibhavK289/predictive_maintenance_for_industrial_devices)**
 
-### Instant Yes Signals ✅
-- [x] Live deployed projects (you have this!)
-- [x] Clean, scannable README
-- [x] Modern tech stack
-- [x] Consistent commit history
-- [x] Professional portfolio website
-- [ ] Real OSS contributions (need to add)
-- [ ] Technical blog posts (need to add)
+- Developed ensemble ML models (XGBoost, LightGBM, CatBoost) for failure prediction
+- Built real-time monitoring dashboard with live sensor data visualization
+- Implemented automated alerting system with RAG-powered maintenance recommendations
+- Processed industrial IoT time-series data for predictive analytics
 
-### Instant No Signals ❌ (Avoided)
-- [x] ~~No projects, just tutorial repos~~ (You have real projects)
-- [x] ~~Empty/default README~~ (Fixed)
-- [x] ~~Fake statistics~~ (Removed)
-- [x] ~~Overclaiming experience~~ (Corrected)
-- [x] ~~Wall of text no one reads~~ (Cleaned up)
+**Tech**: `Python` `Scikit-learn` `XGBoost` `Next.js` `FastAPI` `IoT` `Time Series`
 
 ---
 
-## 📊 Portfolio Website Feedback
+### [Portfolio Website](https://github.com/VaibhavK289/portfolio-website)
+> Modern, animated portfolio built with cutting-edge web technologies
 
-### What's Working Well
-- Modern design with glassmorphism
-- Good project case study structure
-- Technical deep-dives available
-- Mobile responsive
-- Fast load times (Vercel + Next.js)
+**🔗 [Live Site](https://my-app-eta-black-17.vercel.app/)** | **📂 [Source Code](https://github.com/VaibhavK289/portfolio-website)**
 
-### Suggestions
-1. Add a blog section for technical writing
-2. Include testimonials if you've done freelance work
-3. Add downloadable resume link more prominently
-4. Consider adding a "What I'm currently building" section
+- Designed with Aceternity UI, Framer Motion animations, and glassmorphism
+- Implemented dark mode, smooth scrolling, and responsive design
+- Optimized for performance with Next.js 14 App Router
+
+**Tech**: `TypeScript` `Next.js 14` `Tailwind CSS` `Framer Motion`
 
 ---
 
-## 🚀 Final Thoughts
+## 💻 Tech Stack
 
-**Your current position is STRONG.** You have:
-- Real projects that solve real problems
-- Production deployments with live demos
-- A solid tech stack that's in demand
-- Consistent GitHub activity
+**Languages**: TypeScript, JavaScript, Python, SQL
 
-The main issue was **presentation**, not substance. The new README:
-- Highlights your strengths immediately
-- Removes credibility-damaging fake claims
-- Makes your internship goal visible
-- Is scannable in 6 seconds
+**Frontend**: React, Next.js, Tailwind CSS, Framer Motion
 
-**Expected outcome**: 2-3x more recruiter responses when you apply with this profile.
+**Backend**: Node.js, FastAPI, Express.js, PostgreSQL, MongoDB
+
+**AI/ML**: LangChain, OpenAI API, Gemini AI, Scikit-learn, TensorFlow, ChromaDB
+
+**DevOps**: Docker, Kubernetes, AWS, Vercel, Git
 
 ---
 
-## 📁 Files Created
+## 📊 GitHub Stats
 
-1. `GITHUB_README.md` - Copy this to your VaibhavK289/VaibhavK289 repository
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaibhavK289&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavK289&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Good luck with your internship search! 🚀
+</div>
 
 ---
-*Analysis completed: January 6, 2026*
-]]>
+
+## 📫 Let's Connect
+
+- 💼 Open to **internship opportunities** starting Summer 2026
+- 🤝 Available for **collaboration** on AI/ML and Full-Stack projects
+- ⏰ Response time: **< 24 hours**
+
+**Location**: India (IST) | Open to Remote
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00f2ff?style=flat-square&logo=vercel)](https://my-app-eta-black-17.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-4285F4?style=flat-square&logo=googledrive)](https://github.com/VaibhavK289/resume/raw/main/resume.pdf)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Vaibhav Kumar Kandhway</sub>
+</div>
