@@ -14,7 +14,7 @@
   <a href="mailto:vaibhav.kumar.kandhway@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/VaibhavK289/resume/raw/main/resume.pdf" target="_blank">
+  <a href="https://github.com/VaibhavK289/resume/blob/main/Vaibhav_Kumar_Kandhway_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
@@ -282,7 +282,7 @@ I'm always interested in discussing new opportunities, collaborating on interest
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vaibhavkandhway.dev-FF5722?style=for-the-badge)](https://vaibhavkandhway.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaibhav-kumar-kandhway)
 [![Email](https://img.shields.io/badge/Email-vaibhav.kumar.kandhway@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.kumar.kandhway@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-4285F4?style=for-the-badge)](https://github.com/VaibhavK289/resume/raw/main/resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-4285F4?style=for-the-badge)](https://github.com/VaibhavK289/resume/blob/main/Vaibhav_Kumar_Kandhway_resume.pdf)
 
 ### ⚡ Quick Stats
 
