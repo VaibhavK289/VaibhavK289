@@ -2,7 +2,7 @@
 
 # Hi, I'm Vaibhav Kumar Kandhway 👋
 
-### Full-Stack Developer | AI/ML Engineer | Building Production-Ready Applications
+### Full-Stack Web Developer | AI/ML Engineer | Specializing in React, Next.js & Python
 
 <p>
   <a href="https://vaibhavkandhway.dev" target="_blank">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final+Year+CS+Student+at+VIT;Full-Stack+%26+AI%2FML+Developer;Building+Apps+with+Real+Impact;4+Production+Projects+Deployed;Open+to+Summer+2026+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI%2FML+Integration+Specialist;4+Production+Applications+Deployed;2%2B+Years+Development+Experience;Available+for+Opportunities+June+2026" alt="Typing SVG" />
 
 </div>
 
@@ -29,19 +29,22 @@
 
 ```typescript
 const vaibhav = {
+    role: "Full-Stack Web Developer",
     location: "Bhopal, India 🇮🇳",
-    education: "B.Tech CSE @ Vellore Institute of Technology",
-    graduation: "May 2026",
-    currentFocus: "Building AI-powered applications that solve real problems",
-    openTo: "Summer 2026 Internships | Full-Stack | AI/ML | Remote",
+    experience: "2+ years building production applications",
+    specialization: ["React/Next.js", "Python/FastAPI", "AI/ML Integration"],
+    available: "June 2026",
     workingOn: "Healthcare AI & Privacy-First LLM Applications",
-    funFact: "I ship production code, not just tutorials 🚢"
+    portfolio: "4 deployed applications with real users",
+    approach: "I ship production code, not just tutorials 🚢"
 };
 ```
 
-🎯 **What I Do:** I build full-stack applications that people actually use. My projects have real users, real APIs, and real impact—from healthcare platforms achieving 85% diagnostic accuracy to IoT systems reducing downtime by 40%.
+**Full-stack developer specializing in building scalable web applications with AI/ML integration.** I've architected and deployed 4 production applications serving real users—from healthcare platforms achieving 85% diagnostic accuracy to IoT systems reducing downtime by 40%. My work demonstrates end-to-end ownership: system design, backend engineering, AI/ML integration, and production deployment.
 
-💡 **My Approach:** I don't just write code, I architect solutions. Every project in my portfolio demonstrates end-to-end ownership: from system design and backend engineering to AI/ML integration and production deployment.
+💼 **Currently:** Building advanced healthcare AI solutions and privacy-focused LLM applications  
+🎯 **Seeking:** Full-stack developer or AI/ML engineering roles starting June 2026  
+🛠️ **Core Stack:** React, Next.js, TypeScript, Python, FastAPI, PostgreSQL, TensorFlow
 
 ---
 
@@ -183,54 +186,80 @@ Modern developer portfolio with smooth animations and glassmorphism design showc
 
 ---
 
-## 🎯 What I'm Looking For
+## 🎯 Open to Opportunities
 
 ```python
-# Summer 2026 Internship Opportunities
+# Available Starting June 2026
 
-ideal_role = {
-    "positions": ["Full-Stack Developer", "AI/ML Engineer", "Software Engineer"],
-    "companies": ["Product Companies", "Healthcare Tech", "AI Startups", "Fintech"],
-    "duration": "3-6 months",
-    "start_date": "June 2026",
-    "location": "Remote Preferred | Open to Relocation",
-    "interests": ["Scalable Systems", "AI/ML Products", "Healthcare Tech", "Developer Tools"]
+target_roles = {
+    "positions": [
+        "Full-Stack Web Developer",
+        "Frontend Developer (React/Next.js)",
+        "Backend Developer (Python/Node.js)",
+        "AI/ML Engineer",
+        "Software Engineer"
+    ],
+    "company_types": [
+        "Product Companies",
+        "Healthcare Technology",
+        "AI/ML Startups",
+        "Fintech",
+        "SaaS Companies"
+    ],
+    "work_mode": "Remote Preferred | Open to Relocation",
+    "availability": "June 2026",
+    "key_interests": [
+        "Scalable Web Applications",
+        "AI/ML Product Development",
+        "Healthcare Technology",
+        "Developer Tools & Infrastructure"
+    ]
 }
 
-# What I bring:
-strengths = [
-    "Production experience with 4 deployed applications",
-    "Full-stack expertise: React/Next.js + Python/FastAPI",
-    "AI/ML integration in real-world applications",
-    "Independent problem solver who ships working code",
-    "Quick learner with strong CS fundamentals"
-]
+# What I Bring to Your Team:
+value_proposition = {
+    "production_experience": "4 deployed applications with measurable impact",
+    "technical_breadth": "Full-stack: React/Next.js + Python/FastAPI + PostgreSQL",
+    "ai_ml_expertise": "Real-world ML integration, not just theoretical knowledge",
+    "proven_delivery": "Built systems reducing downtime 40%, achieving 85% accuracy",
+    "independent_execution": "End-to-end ownership from architecture to deployment",
+    "quick_ramp_up": "Strong CS fundamentals + proven ability to learn new tech fast"
+}
 ```
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Professional Experience
 
 ```
-🏥 Healthcare AI Platform
-   → Built diagnostic system achieving 85% accuracy
-   → Integrated computer vision for medical imaging
-   → Implemented RAG pipeline for prescription analysis
+🏥 Full-Stack AI Developer | CuraSense Healthcare Platform
+   → Architected AI diagnostic system achieving 85% accuracy
+   → Integrated computer vision models for medical imaging analysis
+   → Implemented RAG pipeline for prescription analysis using LangChain
+   → Tech: Next.js, TypeScript, Python, FastAPI, TensorFlow, ChromaDB
 
-🏭 Industrial IoT System  
-   → Reduced equipment downtime by 40%
-   → Real-time data processing (10K+ points/min)
-   → ML models with 92% prediction accuracy
+🏭 Full-Stack IoT Developer | PredictiveCare Industrial Systems
+   → Reduced equipment downtime by 40% through ML-powered predictions
+   → Built real-time data processing pipeline (10K+ points/minute)
+   → Developed ensemble ML models with 92% prediction accuracy
+   → Tech: React, Next.js, Python, FastAPI, PostgreSQL, Redis, XGBoost
 
-🔒 Privacy-First AI Chat
-   → Zero cloud dependency for complete data sovereignty
-   → Multi-model LLM support via Ollama
-   → Document ingestion with vector embeddings
+🔒 Full-Stack AI Developer | Allma Studio Privacy Platform
+   → Engineered 100% local AI processing with zero cloud dependency
+   → Integrated Ollama for on-device LLM processing (Llama, Mistral)
+   → Built document Q&A system with vector embeddings and RAG
+   → Tech: React, FastAPI, Python, Ollama, LangChain, Vector Databases
 
-🎓 Technical Leadership
-   → University Cyberwarriors Club member (2022-2023)
-   → Organized hackathons and coding workshops
-   → Mentored students on secure coding practices
+🌐 Frontend Developer | Professional Portfolio
+   → Designed and developed modern portfolio with advanced animations
+   → Implemented responsive design with Aceternity UI components
+   → Optimized performance with Next.js 14 App Router
+   → Tech: TypeScript, Next.js 14, Tailwind CSS, Framer Motion
+
+📚 Additional Experience
+   → Technical team member at university technology club (2022-2023)
+   → Organized hackathons and technical workshops on cybersecurity
+   → Mentored developers on secure coding and best practices
 ```
 
 ---
@@ -261,15 +290,23 @@ I'm always interested in discussing new opportunities, collaborating on interest
 ![Followers](https://img.shields.io/github/followers/VaibhavK289?label=Followers&style=for-the-badge&color=green)
 ![Stars](https://img.shields.io/github/stars/VaibhavK289?label=Total%20Stars&style=for-the-badge&color=yellow)
 
+---
+
+### 🎓 Education & Credentials
+
+**Bachelor of Technology in Computer Science Engineering**  
+Vellore Institute of Technology | Expected May 2026  
+*Relevant Coursework: Data Structures & Algorithms, Database Systems, Operating Systems, Software Engineering, AI/ML*
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💭 "The best way to predict the future is to build it." 
 
-**Thanks for visiting! Let's build something amazing together.** 🚀
+**Let's build something impactful together.** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
