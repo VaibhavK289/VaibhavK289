@@ -120,7 +120,7 @@ Modern developer portfolio with smooth animations and glassmorphism design.
 ## Professional Experience
 
 **Full-Stack AI Developer** | CuraSense Healthcare Platform  
-*January 2025 - Present*
+*October 2025 - Present*
 
 Architected AI-powered healthcare diagnostic platform serving users across multiple countries. Integrated computer vision models for medical imaging analysis and implemented RAG pipeline for prescription analysis using LangChain.
 
